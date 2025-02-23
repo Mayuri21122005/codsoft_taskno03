@@ -25,3 +25,7 @@ The eval() function or custom functions might be used to calculate the result ba
 The clear button resets the input, while the equals button performs the calculation.
 
 
+**OUTPUT
+![Image](https://github.com/user-attachments/assets/8e150b85-5d8c-4c4b-a00a-07e6a7e9236a)
+
+![Image](https://github.com/user-attachments/assets/a8f644a4-2e1b-4c62-907d-6f2c1d5ee88f)
